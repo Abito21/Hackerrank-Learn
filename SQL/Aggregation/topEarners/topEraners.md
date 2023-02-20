@@ -3,17 +3,17 @@ We define an employee's total earnings to be their monthly  worked, and the maxi
 Input Format
 
 The Employee table containing employee data for a company is described as follows:
-<img src="[https://github.com/Abito21/Hackerrank-Learn/SQL/Aggregation/topEarners/src/employeeTable.png](https://github.com/Abito21/Hackerrank-Learn/blob/main/SQL/Aggregation/topEarners/src/employeeTable.png)" width="200"/>
+<img src="https://github.com/Abito21/Hackerrank-Learn/blob/main/SQL/Aggregation/topEarners/src/employeeTable.png" width="200"/>
 
 
 where employee_id is an employee's ID number, name is their name, months is the total number of months they've been working for the company, and salary is the their monthly salary.
 
 Sample Input
-<img src="https://github.com/Abito21/Hackerrank-Learn/SQL/Aggregation/topEarners/src/inputEmployeeTable.png" width="200"/>
+<img src="https://github.com/Abito21/Hackerrank-Learn/blob/main/SQL/Aggregation/topEarners/src/inputEmployeeTable.png" width="200"/>
 
 
 Sample Output
-<img src="https://github.com/Abito21/Hackerrank-Learn/SQL/Aggregation/topEarners/src/inputEmployeeTable.png" width="200"/>
+<img src="https://github.com/Abito21/Hackerrank-Learn/blob/main/SQL/Aggregation/topEarners/src/inputEmployeeTable.png" width="200"/>
 69952 1
 Explanation
 
