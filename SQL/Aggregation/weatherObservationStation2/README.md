@@ -8,6 +8,8 @@ Input Format
 
 The STATION table is described as follows:
 
+STATION
+
 <img src="https://github.com/Abito21/Hackerrank-Learn/blob/main/SQL/Aggregation/weatherObservationStation2/src/stationTable.png" width="200"/>
 
 where LAT_N is the northern latitude and LONG_W is the western longitude.
